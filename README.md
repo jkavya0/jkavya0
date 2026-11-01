@@ -1,75 +1,82 @@
-# 👋 Hi, I’m Kavya
+# Hi, I'm Kavya Jayaramaiah 👋
 
-🎓 M.Sc. Computational Engineering @ FAU Erlangen-Nürnberg
-💡 Focus: Digital Signal Processing, Audio & Multimedia Systems, Deep Learning
-📍 Germany
+### Signal Processing Engineer | DSP | Audio & Multimedia Systems | C/C++ | Python
+
+M.Sc. Computational Engineering student at **FAU Erlangen-Nürnberg**, with an expected graduation in February 2027.
+
+Currently working as a **Working Student at Fraunhofer IIS**, contributing to audio codec development and digital signal processing.
+
+I am interested in developing efficient engineering solutions across digital signal processing, audio systems, wireless communications, and embedded software.
 
 ---
 
-## 🔬 About Me
+## 💼 Professional Experience
 
-I work on building and understanding systems for **audio, signal processing, and media applications**, with a focus on implementing algorithms from first principles.
+**Working Student – Audio Codec Development | Fraunhofer IIS**
 
-My work combines:
+- Working on audio codec development and signal processing.
+- Implementing and debugging DSP algorithms using C.
+- Exploring Higher-Order Ambisonics and immersive audio rendering.
+- Working with codec architecture and signal processing pipelines.
 
-* Audio & signal processing techniques
-* Deep learning models
-* Data processing and media pipelines
+---
+
+## 🚀 Featured Projects
+
+**Digital Signal Processing – DSPCore**
+
+Implementing fundamental DSP concepts and algorithms using Python, NumPy, SciPy and Matplotlib.
+
+[View Repository](https://github.com/jkavya0/DSPCore)
+
+**Digital RF Signal Simulation and Modulation Analysis**
+
+Simulation of digital communication systems using Python and GNU Radio, including modulation, AWGN, matched filtering and BER analysis.
+
+[View Repository](https://github.com/jkavya0/rf-signal-analysis)
+
+**Deep Learning Implementations**
+
+Exploring neural network architectures, deep learning fundamentals and practical implementations using Python and PyTorch.
+
+[View Repository](https://github.com/jkavya0/DeepLearning)
+
+**Engineering Optimization**
+
+Implementation of numerical optimization algorithms, including Newton methods, Conjugate Gradient and BFGS.
+
+[View Repository](https://github.com/jkavya0/Optimization-For-Engineering)
 
 ---
 
 ## 🛠️ Technical Skills
 
-* **Programming:** Python, C
-* **Libraries & Tools:** NumPy, SciPy, PyTorch, OpenCV, FFmpeg
-* **Core Areas:**
-
-  * Digital Signal Processing (DSP)
-  * Audio & Multimedia Systems
-  * Deep Learning
-  * Video/Audio Processing Pipelines
-
----
-
-## 📌 Projects
-
-### 🔹 Deep Learning (From Scratch + PyTorch)
-
-* Implemented neural networks from scratch (forward/backward propagation)
-* Built CNN and RNN models
-* Applied PyTorch for image classification
+| Category | Technologies |
+|---|---|
+| Programming | C, C++, Python, MATLAB |
+| Signal Processing | DSP, FFT, FIR/IIR, Adaptive Filtering |
+| Audio Engineering | Audio Codecs, Ambisonics, Binaural Rendering |
+| Communication Systems | GNU Radio, Digital Modulation, BER Analysis |
+| Libraries | NumPy, SciPy, Matplotlib, PyTorch |
+| Tools | Linux, Git, CMake, FFmpeg |
 
 ---
 
-### 🔹 Audio & Signal Processing
+## 🎓 Education
 
-* Signal analysis and transformation (FFT, filtering)
-* Working with audio/video processing tools
-* Exploring media pipelines and codecs
+**M.Sc. Computational Engineering**  
+Friedrich-Alexander University Erlangen-Nürnberg (FAU), Germany  
+Expected Graduation: February 2027
 
----
-
-### 🔹 Data Processing Pipeline
-
-* Built custom data generator with batching and augmentation
-* Implemented preprocessing workflows for ML tasks
+**B.E. Electronics and Communication Engineering**
 
 ---
 
-## 📈 Current Focus
+## 📫 Connect With Me
 
-* Audio signal processing and immersive media
-* Video/audio codecs and compression
-* Real-time media systems
-
----
-
-## 📫 Connect with Me
-
-* LinkedIn: www.linkedin.com/in/kavya-jayaramaiah-b91aa4196
+- GitHub: [@jkavya0](https://github.com/jkavya0)
+- LinkedIn: [Kavya Jayaramaiah](https://www.linkedin.com/in/kavya-jayaramaiah-b91aa4196/)
 
 ---
 
-## ⚡ Key Insight
-
-I focus on understanding how signal processing and learning-based systems work internally by building them from the ground up.
+*Building signal processing and engineering solutions through algorithms, software and practical implementation.*
