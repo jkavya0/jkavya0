@@ -21,6 +21,16 @@ I am interested in developing efficient engineering solutions across digital sig
 
 ---
 
+## 🎓 Master's Thesis (in progress)
+
+**Combine Object and Ambisonics Rendering in 3GPP IVAS**
+FAU Erlangen-Nürnberg, in cooperation with Fraunhofer IIS
+
+Investigating unified Higher-Order Ambisonics (HOA) binaural rendering of
+audio objects combined with Ambisonics scenes (OSBA) in the 3GPP IVAS codec,
+with a focus on rendering complexity and computational efficiency.
+Implementation in C.
+
 ## 🚀 Featured Projects
 
 **Digital Signal Processing – DSPCore**
